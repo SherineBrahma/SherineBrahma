@@ -1,4 +1,4 @@
-##  Hi, I'm Sherine 🌿🌿
+##  Hi, I'm Sherine 🌿
 
 I'm an Electrical Engineer specializing in signal processing, optimization, and deep learning. My work focuses on MRI reconstruction and quantitative MR imaging. On a lighter note, I also enjoy playing around with audio analog circuits and audio plugins.
 
