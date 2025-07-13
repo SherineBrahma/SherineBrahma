@@ -7,4 +7,7 @@ I'm a guitarist and music producer, drawn particularly to soul, RnB, jazz, and f
 Currently based in Berlin, I'm interested in engineering, healthcare, creativity, and most importantly, dumb humor.
 
 ## My digital presence
-![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherinebrahma/) |
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sherinebrahma/)
+
+
