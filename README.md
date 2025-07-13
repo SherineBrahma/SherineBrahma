@@ -4,7 +4,7 @@ I'm an Electrical Engineer specializing in signal processing, optimization, and 
 
 I'm a guitarist and music producer, drawn particularly to R&B, jazz, soul, funk, and electronic, among other styles (I will upload some things soon 😊). Furthermore, I grew up with sports and have especially enjoyed basketball and table tennis.
 
-Currently based in Berlin, I'm interested in engineering, healthcare, creativity, and most importantly, dumb humor.
+Currently based in Berlin, I'm interested in engineering, healthcare, creativity, and most importantly, anything that is dumb.
 
 ## My digital presence
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherinebrahma/)
